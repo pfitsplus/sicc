@@ -1,6 +1,8 @@
 # Streaming Instability Code Comparison (SICC)
 
 Project and source files related to the Streaming Instability Code Comparison ([SICC](https://pfitsplus.github.io/research/code-comparison/)) led by [PFITS+](https://pfitsplus.github.io/) and the [UFOS Project](https://www.ufos-project.eu/).
+The underlying figure data can be found at the project's [Google Shared Drive](https://drive.google.com/drive/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v?usp=sharing) (please contact [Stanley A. Baronett](https://pfitsplus.github.io/team/baronett-stanley/) to request access to add or edit files).
+For more information and project updates, please visit our [dedicated webpage](https://pfitsplus.github.io/research/code-comparison/).
 
 
 ## Directory structure
