@@ -7,7 +7,7 @@ For project updates and details on how to contribute, please visit our <a href="
 
 ## Directory structure
 
-To be consistent with the structure of the <a href="https://pfitsplus.github.io/assets/docs/research/code-comparison/si/sicc_problem_set.pdf" target="_blank">Problem Set</a> (Section 1.2), the subdirectories are hierarchically organized first by *model* (e.g., [`/unstratified`](/tree/main/ipynb/unstratified)), next by *problem* (e.g., [`../BA`](/tree/main/ipynb/unstratified/BA)), and last by *variation* (e.g., [`../../512`](/tree/main/ipynb/unstratified)).
+To be consistent with the structure of the <a href="https://pfitsplus.github.io/assets/docs/research/code-comparison/si/sicc_problem_set.pdf" target="_blank">Problem Set</a> (Section 1.2), the subdirectories are hierarchically organized first by *model* (e.g., [`/unstratified`](/tree/main/unstratified)), next by *problem* (e.g., [`../BA`](/tree/main/unstratified/BA)), and last by *variation* (e.g., [`../../512`](/tree/main/unstratified/BA/512)).
 
 
 ### Tree view
