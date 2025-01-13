@@ -1,7 +1,10 @@
 # Project related
 data/
+figs/
+.inactive/
 ipynb/figs/
-old/
+old*/
+*.npz
 *.pdf
 *.png
 
