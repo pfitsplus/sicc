@@ -14,6 +14,11 @@ To be consistent with the structure of the <a href="https://pfitsplus.github.io/
 
 ```
 /[model]
+  /src
+    /pseudo_code.py
+    /[dust_implementation]
+      /[code]
+        /[source files]
   /[problem]
     /[variation]
       /[figures].ipynb
@@ -21,12 +26,8 @@ To be consistent with the structure of the <a href="https://pfitsplus.github.io/
         /[dust_implementation]
           /[code]
             /[source/input files]
-  /src
-    /pseudo_code.py
-    /[dust_implementation]
-      /[code]
-        /[source files]
 ```
+
 
 ### Figures
 
@@ -36,3 +37,9 @@ To be consistent with the structure of the <a href="https://pfitsplus.github.io/
 ### Source code
 
 Source and input files for contributing codes can be found within any `/src/` subdirectory (see [tree view](#tree-view)).
+To contribute these files, please create a [pull request](https://github.com/pfitsplus/sicc/pulls) from your own [fork](https://github.com/pfitsplus/sicc/fork).
+
+
+## Issues
+
+Please feel free to [create an issue](https://github.com/pfitsplus/sicc/issues){:target="_blank"} for any questions, feedback, or issues encountered.
