@@ -16,16 +16,16 @@ To be consistent with the structure of the [Problem Set](https://pfitsplus.githu
 /[model]
   /[problem]
     /[variation]
+      /[figures].ipynb
       /src
         /[dust_implementation]
           /[code]
             /[source/input files]
-      /[figure notebooks]
   /src
-      /[dust_implementation]
-        /[code]
-          /[source files]
-      /pseudo_code.py
+    /pseudo_code.py
+    /[dust_implementation]
+      /[code]
+        /[source files]
 ```
 
 ### Figures
