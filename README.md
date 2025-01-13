@@ -42,4 +42,4 @@ To contribute these files, please create a [pull request](https://github.com/pfi
 
 ## Issues
 
-Please feel free to [create an issue](https://github.com/pfitsplus/sicc/issues){:target="_blank"} for any questions, feedback, or issues encountered.
+Please feel free to [create an issue](https://github.com/pfitsplus/sicc/issues) for any questions, feedback, or issues encountered.
