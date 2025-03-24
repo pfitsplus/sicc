@@ -4,6 +4,7 @@ figs/
 .inactive/
 ipynb/figs/
 old*/
+*.athdf
 *.npz
 *.pdf
 *.png
