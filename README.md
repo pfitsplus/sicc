@@ -2,7 +2,7 @@
 
 This repository hosts figure scripts and source code files for the <a href="https://pfitsplus.github.io/research/code-comparison/" target="_blank">Streaming Instability Code Comparison</a> project led by <a href="https://pfitsplus.github.io/" target="_blank">PFITS+</a>.
 The underlying figure data is hosted on our <a href="https://drive.google.com/drive/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v?usp=sharing" target="_blank">Google Shared Drive</a> (please contact <a href="https://pfitsplus.github.io/team/baronett-stanley/" target="_blank">Stanley A. Baronett</a> to request access to add files).
-For project updates and details on how to contribute, please visit our <a href="https://pfitsplus.github.io/research/code-comparison/" target="_blank">dedicated webpage</a>.
+For project updates and details on how to contribute, please visit our <a href="https://pfitsplus.github.io/research/code-comparisons/" target="_blank">dedicated webpage</a>.
 
 
 ## Directory structure
