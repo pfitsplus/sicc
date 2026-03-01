@@ -1,1 +1,4 @@
 #pencil set up file for RUNBA with set up np= 1, Nx = 512, Nz = 512
+
+
+#print.in file can be edited to change the outputs from simulation
