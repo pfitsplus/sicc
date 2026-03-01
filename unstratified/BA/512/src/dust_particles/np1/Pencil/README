@@ -2,3 +2,6 @@
 
 
 #print.in file can be edited to change the outputs from simulation
+
+
+#courant number and number of processors was varied in code comparison for this code.
