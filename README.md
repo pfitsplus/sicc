@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/880522014.svg)](https://doi.org/10.5281/zenodo.18867031)
+
 # Streaming Instability Code Comparison
 
 This repository hosts figure scripts and source code files for the <a href="https://pfitsplus.github.io/research/code-comparison/" target="_blank">Streaming Instability Code Comparison</a> project led by <a href="https://pfitsplus.github.io/" target="_blank">PFITS+</a>.
