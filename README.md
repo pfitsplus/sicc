@@ -22,8 +22,8 @@ To be consistent with the structure of the <a href="https://pfitsplus.github.io/
       /[code]
         /[source files]
   /[problem]
+    /notebooks
     /[variation]
-      /[figures].ipynb
       /src
         /[dust_implementation]
           /[code]
@@ -33,7 +33,7 @@ To be consistent with the structure of the <a href="https://pfitsplus.github.io/
 
 ### Figures
 
-<a href="https://jupyter.org/" target="_blank">Jupyter Notebooks</a> (with filename extension `.ipynb`) containing <a href="https://www.python.org/" target="_blank">Python</a> scripts to generate the figures in Baronett, Lyra et al. (submitted) can be found within the subdirectories (see [tree view](#tree-view)).
+<a href="https://jupyter.org/" target="_blank">Jupyter Notebooks</a> (with filename extension `.ipynb`) containing <a href="https://www.python.org/" target="_blank">Python</a> scripts to generate the figures in Baronett, Lyra et al. (submitted) can be found within the [`/unstratified/BA/notebooks`](https://github.com/pfitsplus/sicc/tree/main/unstratified/BA/notebooks) subdirectory (see [tree view](#tree-view)).
 
 
 ### Source code
