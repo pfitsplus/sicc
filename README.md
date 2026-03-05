@@ -2,7 +2,7 @@
 
 # Streaming Instability Code Comparison
 
-This repository hosts figure scripts and source code files for the <a href="https://pfitsplus.github.io/research/code-comparison/" target="_blank">Streaming Instability Code Comparison</a> project led by <a href="https://pfitsplus.github.io/" target="_blank">PFITS+</a>.
+This repository hosts figure scripts and source code files for the <a href="https://pfitsplus.github.io/research/code-comparisons/" target="_blank">Streaming Instability Code Comparison</a> project led by <a href="https://pfitsplus.github.io/" target="_blank">PFITS+</a>.
 The underlying figure data is hosted on our <a href="https://drive.google.com/drive/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v?usp=sharing" target="_blank">Google Shared Drive</a> (please contact <a href="https://pfitsplus.github.io/team/baronett-stanley/" target="_blank">Stanley A. Baronett</a> to request access to add files).
 For project updates and details on how to contribute, please visit our <a href="https://pfitsplus.github.io/research/code-comparisons/" target="_blank">dedicated webpage</a>.
 
@@ -33,7 +33,7 @@ To be consistent with the structure of the <a href="https://pfitsplus.github.io/
 
 ### Figures
 
-<a href="https://jupyter.org/" target="_blank">Jupyter Notebooks</a> (with filename extension `.ipynb`) containing <a href="https://www.python.org/" target="_blank">Python</a> scripts to generate <a href="https://pfitsplus.github.io/research/code-comparison/#figures" target="_blank">figures</a> can be found within the subdirectories (see [tree view](#tree-view)).
+<a href="https://jupyter.org/" target="_blank">Jupyter Notebooks</a> (with filename extension `.ipynb`) containing <a href="https://www.python.org/" target="_blank">Python</a> scripts to generate the figures in Baronett, Lyra et al. (submitted) can be found within the subdirectories (see [tree view](#tree-view)).
 
 
 ### Source code
