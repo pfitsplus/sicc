@@ -1,14 +1,23 @@
 # Project related
+cache/
 data/
 figs/
 .inactive/
 ipynb/figs/
 old*/
 *.athdf
+*.bbl
+*.json
 *.npz
 *.pdf
 *.png
+*.pyc
 *.tar
+*.tex
+*.zip
 
 # VS Code
 *.code-workspace
+notes/
+unstratified/BA/performance/
+CLAUDE.md
