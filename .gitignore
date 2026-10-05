@@ -5,6 +5,7 @@ figs/
 .inactive/
 ipynb/figs/
 old*/
+unstratified/BA/performance/
 *.athdf
 *.bbl
 *.json
@@ -17,7 +18,7 @@ old*/
 *.zip
 
 # VS Code
-*.code-workspace
+.github/
 notes/
-unstratified/BA/performance/
+*.code-workspace
 CLAUDE.md
